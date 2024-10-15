@@ -9,7 +9,7 @@ const App = () => {
   const [maxDate, setMaxDate] = useState("");
 
   const studentsData = [
-    { lastName: "Dacara", firstName: "Dacara", course: "IT", birthdate: "2003-06-23" },
+    { lastName: "Dacara", firstName: "Bernie", course: "IT", birthdate: "2003-06-23" },
     { lastName: "Foncardaz", firstName: "Karl", course: "IS", birthdate: "2002-08-20" },
     { lastName: "Binancilan", firstName: "OJ", course: "CS", birthdate: "2004-03-10" },
     { lastName: "Angkanan", firstName: "Abdel", course: "DS", birthdate: "2001-07-25" },
